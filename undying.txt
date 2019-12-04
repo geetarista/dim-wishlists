@@ -1,0 +1,12 @@
+// Undying
+title:geetarista's undying wishlist
+description: Season of the Undying 
+
+// bad news
+dimwishlist:item=-2145476620
+
+// hard truths
+dimwishlist:item=-105567493
+
+// ten paces
+dimwishlist:item=-2112909415
